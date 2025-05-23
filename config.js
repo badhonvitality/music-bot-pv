@@ -4,9 +4,9 @@ module.exports = {
     prefix: '!',
     nodes: [
         {
-            host: "160.191.77.60",
-            password: "dsc.gg/cortexrealm",
-            port: 10065,
+            host: "lavalink.jirayu.net",
+            password: "youshallnotpass",
+            port: 13592,
             secure: false,
             name: "Main Node"
         }
